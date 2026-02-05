@@ -4,6 +4,8 @@ A fast, clean, and informative prompt for the **Fish shell**.
 
 Luminous is a heavily modified fork of the [**lucid**](https://github.com/mattgreen/lucid.fish) prompt, with substantial additions and refinements focused on usability, performance, and visual clarity.
 
+![Demo Image](https://github.com/KyleJKC/luminous.fish/blob/main/demo.png?raw=true)
+
 ---
 
 ## ✨ Features
